@@ -1,5 +1,11 @@
 # SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation
 
+<p align="center">
+  <img src="resources/mini_top_view.jpg" alt="SparseDrive prediction in bird's-eye view on nuScenes mini: detected objects, map elements, motion predictions, and planning candidates" width="640">
+  <br>
+  <em>nuScenes mini · SparseDrive Stage 2 · predicted bird's-eye view</em>
+</p>
+
 https://github.com/swc-17/SparseDrive/assets/64842878/867276dc-7c19-4e01-9a8e-81c4ed844745
 
 ## News
